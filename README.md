@@ -1,7 +1,7 @@
 # upstartr
 
 <!-- badges: start -->
-[![R build status](https://github.com/globeandmail/upstartr/workflows/R-CMD-check/badge.svg)](https://github.com/globeandmail/upstartr/actions)
+[![R-CMD-check](https://github.com/globeandmail/upstartr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/globeandmail/upstartr/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/upstartr)](https://cran.r-project.org/package=upstartr)
 [![CRAN_Downloads_Badge](https://cranlogs.r-pkg.org/badges/upstartr)](https://cranlogs.r-pkg.org/badges/upstartr)
 <!-- badges: end -->
@@ -37,4 +37,4 @@ If you've got any questions, feel free to send us an email, or give us a shout o
 
 [![Tom Cardoso](https://avatars0.githubusercontent.com/u/2408118?v=3&s=65)](https://github.com/tomcardoso)
 ---
-[Tom Cardoso](mailto:tcardoso@globeandmail.com) <br> [@tom_cardoso](https://www.twitter.com/tom_cardoso)
+[Tom Cardoso](mailto:tcardoso@globeandmail.com) <br> [@tom_cardoso](https://twitter.com/tom_cardoso)
